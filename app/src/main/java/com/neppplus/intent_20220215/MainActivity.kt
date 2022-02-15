@@ -19,5 +19,14 @@ class MainActivity : AppCompatActivity() {
 
         }
 
+        btnSendMessage.setOnClickListener {
+
+//            1. 뭐라고 입력했는지 추출
+
+
+//            2. 추출한 내용을 다른 화면에 전달 (화면으로 이동)
+
+        }
+
     }
 }
